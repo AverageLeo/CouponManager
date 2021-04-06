@@ -1,0 +1,47 @@
+body {
+  background-color: #f0f2f6;
+}
+
+.main-content {
+  background-color: #ffffff;
+  min-height: 85%;
+  border-radius: 15px 15px 2px 2px;
+  margin: 7vh 9vw 0 9vw;
+  box-shadow: 0 0 4px 0 rgba(216, 216, 216, 0.37);
+}
+
+.title-area {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table-title {
+  margin: 4.5vw;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.table-title-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.coupon-icon {
+  height: 3.7vw;
+  width: 2.8vw;
+  margin-bottom: 1.8vw;
+}
+
+.coupon-management {
+  height: 46px;
+  color: #616a82;
+  font-family: "Open Sans";
+  font-size: 2.5vw;
+  letter-spacing: 0.2px;
+  line-height: 46px;
+  font-weight: 400;
+}

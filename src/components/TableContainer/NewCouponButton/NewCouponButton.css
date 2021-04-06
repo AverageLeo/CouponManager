@@ -1,0 +1,17 @@
+.new-coupon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 4vw;
+  width: 16vw;
+  border-radius: 12px;
+  background-color: #44d793;
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 1.1vw;
+  font-weight: bold;
+  letter-spacing: 0.27px;
+  line-height: 22px;
+  text-align: center;
+  cursor: pointer;
+}

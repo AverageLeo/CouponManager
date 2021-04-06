@@ -1,0 +1,67 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 8vh;
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px 0 rgba(216, 216, 216, 0.37);
+}
+
+.nav-bar > header {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 2vw;
+}
+
+.logo {
+  height: 24px;
+  width: 93px;
+}
+
+.path-5 {
+  box-sizing: border-box;
+  height: 19px;
+  width: 1px;
+  border: 1px solid #616a82;
+  margin: 0 0.5em;
+}
+
+.hello-yuval {
+  height: 22px;
+  width: 89px;
+  color: #616a82;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.27px;
+  line-height: 22px;
+}
+
+.logout-area {
+  margin: 2vw 2vw 2vw 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 73px;
+  cursor: pointer;
+}
+
+.logout-text {
+  height: 19px;
+  width: 50px;
+  color: #ff3863;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.23px;
+  line-height: 19px;
+}
+
+.logout-icon {
+  height: 16px;
+  width: 16px;
+}
